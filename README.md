@@ -9,7 +9,7 @@
 * 📃 You can check out my resume: https://bit.ly/3LTnC5U
 
 * 👉 Here is my Linked-in: https://www.linkedin.com/in/hung6129/
-* 📫 How to reach me: quyhung6129@gmail.com or https://www.facebook.com/qui.hung.39/
+* 📫 How to reach me: quyhung6129@gmail.com
 * ☎️ Call me: (+84) 336965217
 
 

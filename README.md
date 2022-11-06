@@ -1,10 +1,10 @@
-### Hi there 👋👋👋
+### Hello there 👋👋👋
 ### My name is Nguyen Phuc Quy Hung
 ### You can call me Hung
  
-* 🌱 I’m full-stack UX/UI flutter developer
-* 😎 I’m currently learning nodejs for a full-stack mobile developer carrer path
-* 👯 I’m looking to collaborate on a mobile application job
+* 🌱 I am a full-stack mobile app developer, able to work well in both of Android and iOS using native SDK or Flutter framework. I started as an Android developer and learned about iOS and Flutter on working process.
+* 👯 I worked on many projects and in many domains, such as e-wallet, e-commerce, BLE, movie bookingseat and education app. 
+* 
 * ❤️ I love to design stunning UI/UX application and create awesome functions for it
 * 📃 You can check out my resume: https://bit.ly/3dvmJDD
 

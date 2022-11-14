@@ -6,7 +6,7 @@
 * 👯 I worked on many projects and in many domains, such as e-wallet, e-commerce, BLE, food devilery, movie booking-seat and education app. 
 
 * ❤️ I love to design stunning UI/UX application and create awesome functions for it
-* 
+
 * 📃 You can check out my resume: https://bit.ly/3dvmJDD
 
 * 👉 Here is my Linked-in: https://www.linkedin.com/in/hung6129/

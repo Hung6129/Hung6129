@@ -3,7 +3,7 @@
 <p align="justify">
  I'm <strong>Hung (iHun)</strong>, currently working as a mobile developer.
 <img src="https://github.com/lambiengcode/lambiengcode/blob/main/gif/banner_gif.gif?raw=true" width="26.5%" height=auto align="right" alt="Computador">
-Also, I'm a freelancer. If you have a need for a mobile application or website, contact me by email: <a href="quyhung6129@gmail.com">quyhung6129@gmail.com</a><br><br>
+Also, I'm a freelancer. If you have a need for a mobile application or website, contact me by email: <strong>quyhung6129@gmail.com</strong> if you are in Vietnam, you can add my <a href="https://zalo.me/pc">Zalo</a>: <strong>0336965217</strong> <br><br>
  
 With 2 years of experience working with Flutter and having written Native modules (Kotlin/Java, Swift) to develop Mobile Applications, I would like to work in a Mobile Application Development position.<br><br>
 I am aiming to work in a challenging work environment where I can use my expertise in technical skills towards the development and implementation of new ideas, contributing to organization development. Taking a challenging role as Mobile Applications Developer in a technical company where I could utilize my skills.<br><br>

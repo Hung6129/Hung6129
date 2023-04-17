@@ -1,7 +1,7 @@
 ### Hello there 👋👋👋
 ### My name is Nguyen Phuc Quy Hung
 <p align="justify">
- I'm <strong>Hung (iHun)</strong>, currently working as a mobile developer.
+ I'm <strong>Hung</strong>, currently working as a mobile developer.
 <img src="https://github.com/lambiengcode/lambiengcode/blob/main/gif/banner_gif.gif?raw=true" width="26.5%" height=auto align="right" alt="Computador">
 Also, I'm a freelancer. If you have a need for a mobile application or website, contact me by email: <strong>quyhung6129@gmail.com</strong> if you are in Vietnam, you can add my <a href="https://zalo.me/pc">Zalo</a>: <strong>0336965217</strong> <br><br>
  

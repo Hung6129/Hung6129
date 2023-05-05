@@ -5,9 +5,10 @@
 <img src="https://github.com/lambiengcode/lambiengcode/blob/main/gif/banner_gif.gif?raw=true" width="26.5%" height=auto align="right" alt="Computador">
 Also, I'm a freelancer. If you have a need for a mobile application or website, contact me by email: <strong>quyhung6129@gmail.com</strong> if you are in Vietnam, you can add my <a href="https://zalo.me/pc">Zalo</a>: <strong>0336965217</strong> <br><br>
  
-With 2 years of experience working with Flutter and having written Native modules (Kotlin/Java, Swift) to develop Mobile Applications, I would like to work in a Mobile Application Development position.<br><br>
-I am aiming to work in a challenging work environment where I can use my expertise in technical skills towards the development and implementation of new ideas, contributing to organization development. Taking a challenging role as Mobile Applications Developer in a technical company where I could utilize my skills.<br><br>
-The next goal is to develop more complete applications, learn and develop more skills in Native Languages ​​(Kotlin/Java, Swift) and develop management skills to become a reliable Team Leader.<br><br>
+I have 2 years of experience working with Flutter and have written Native modules (Kotlin/Java, Swift) to develop mobile applications. I am seeking a Mobile Application Development position in a challenging work environment where I can utilize my technical skills to contribute to the development and implementation of new ideas, further contributing to the organization's development. My goal is to take on a challenging role as a Mobile Applications Developer in a technical company where I can utilize my skills.
+ <br><br>
+My next goal is to develop more complete applications, learn and further develop my skills in Native Languages (Kotlin/Java, Swift), and acquire management skills to become a reliable Team Leader.
+ <br><br>
  
 <!-- [![Dart Badge](https://img.shields.io/badge/-Dart-3399ff?style=for-the-badge&labelColor=black&logo=dart&logoColor=3399ff)](#)
 [![Flutter Badge](https://img.shields.io/badge/-Flutter-0073e6?style=for-the-badge&labelColor=black&logo=flutter&logoColor=0073e6)](#) [![Android Badge](https://img.shields.io/badge/-Android-3C8749?style=for-the-badge&labelColor=black&logo=android&logoColor=3C8749)](#)[![iOS Badge](https://img.shields.io/badge/-Swift-cc6600?style=for-the-badge&labelColor=black&logo=swift&logoColor=cc6600)](#)[![Firebase Badge](https://img.shields.io/badge/-Firebase-e69514?style=for-the-badge&labelColor=black&logo=firebase&logoColor=ffa500)](#)

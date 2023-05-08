@@ -1,6 +1,7 @@
 ### Hello there 👋👋👋
 <p align="justify">
-My name is Nguyen Phuc Quy Hung, i'm a software developer and love to build mobile applications.<br><br>
+My name is Nguyen Phuc Quy Hung, I'm a software developer and love to build Mobile Applications.
+ <br><br>
 <img src="https://github.com/lambiengcode/lambiengcode/blob/main/gif/banner_gif.gif?raw=true" width="26.5%" height=auto align="right" alt="Computador">
 Also, I'm a freelancer. If you have a need for a mobile application or website, contact me by email: <strong>quyhung6129@gmail.com</strong> if you are in Vietnam, you can add my <a href="https://zalo.me/pc">Zalo</a>: <strong>0336965217</strong> <br><br>
  
@@ -20,8 +21,7 @@ My next goal is to develop more complete applications, learn and further develop
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hung6129&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=algolia&count_private=true&show_icons=true&border_radius=8&border_color=3d0066" height="180em"/>
 </p>
 
-<!-- 
-#### Skills & Tools
+<!-- #### Skills & Tools
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,swift,nodejs,aws,firebase,mongodb,git,github&perline=15&theme=dark)](https://skillicons.dev) -->
 
 

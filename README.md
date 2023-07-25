@@ -12,8 +12,8 @@ Also, I'm a freelancer. If you have a need for a mobile application or website c
  
 #### :star: Github Stats
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=Hung6129&count_private=true&show_icons=true&theme=algolia&include_all_commits=true&custom_title=Hung6129&raw=true&border_radius=8&border_color=3d0066" height="180em"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hung6129&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=algolia&count_private=true&show_icons=true&border_radius=8&border_color=3d0066" height="180em"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hung6129&count_private=true&show_icons=true&theme=algolia&include_all_commits=true&custom_title=Hung6129&raw=true&border_radius=8&border_color=3d0066" height="180em"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hung6129&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=algolia&count_private=true&show_icons=true&border_radius=8&border_color=3d0066" height="180em"/>
 </p>
 
 <!-- #### Skills & Tools

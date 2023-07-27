@@ -7,14 +7,14 @@ Also, I'm a freelancer. If you have a need for a mobile application or website c
  <br><br>
  :mailbox: Email: quyhung6129@gmail.com
  
-#### 🪄 Techstack & Tools 
+#### :green_heart: Techstack & Tools 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,java,androidstudio,swift,firebase,mongodb,postgresql,gitlab&perline=5&theme=dark)](https://skillicons.dev)
  
 #### :star: Github Stats
-<p>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hung6129&count_private=true&show_icons=true&theme=algolia&include_all_commits=true&custom_title=Hung6129&raw=true&border_radius=8&border_color=3d0066" height="180em"/>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hung6129&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=algolia&count_private=true&show_icons=true&border_radius=8&border_color=3d0066" height="180em"/>
-</p>
+<div style="display: flex; align-items: center;">
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=Hung6129&show_icons=true&count_private=true&hide_title=false&theme=dracula" alt="Hung Nguyen's Github Stats" />
+<img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=Hung6129&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="Hung Nguyen's GitHub Streaks" />
+</div>
 
 <!-- #### Skills & Tools
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,swift,nodejs,aws,firebase,mongodb,git,github&perline=15&theme=dark)](https://skillicons.dev) -->

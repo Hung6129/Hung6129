@@ -11,9 +11,7 @@ Also, I'm a freelancer. If you have a need for a mobile application or website c
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,java,androidstudio,swift,firebase,mongodb,postgresql,gitlab&perline=5&theme=dark)](https://skillicons.dev)
  
 #### :star: Github Stats
-<div style="display: flex; align-items: center;">
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=Hung6129&show_icons=true&count_private=true&hide_title=false&theme=dracula" alt="Hung Nguyen's Github Stats" />
- 
+
 <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=Hung6129&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="Hung Nguyen's GitHub Streaks" />
 </div>
 

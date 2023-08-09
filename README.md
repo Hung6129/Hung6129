@@ -15,6 +15,6 @@ Also, I'm a freelancer. If you have a need for a mobile application or website c
 <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=Hung6129&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="Hung Nguyen's GitHub Streaks" />
 </div>
 
-<!---<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hung6129&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=algolia&count_private=true&show_icons=true&border_radius=8&border_color=3d0066" height="180em"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hung6129&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=algolia&count_private=true&show_icons=true&border_radius=8&border_color=3d0066" height="180em"/>
 
 

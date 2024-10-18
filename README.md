@@ -1,6 +1,5 @@
 ### Hei Hei 👋👋👋
 <p align="justify">
-My name is Nguyen Phuc Quy Hung, I'm a software developer and love to build Mobile Applications.
  <br>
 <!-- <img src="https://github.com/lambiengcode/lambiengcode/blob/main/gif/banner_gif.gif?raw=true" width="26.5%" height=auto align="right" alt="Computador">
 Also, I'm a freelancer. If you have a need for a mobile application or website contact me at

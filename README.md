@@ -1,4 +1,4 @@
-# Hi there, I'm Hung6129! 👋
+# Hi there, I'm Hung! 👋
 
 Welcome to my GitHub profile! I'm passionate about software development, open-source contributions, and always eager to learn new technologies. Here's a bit about me:
 

@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 - 💻 Full-stack Developer with a knack for creating dynamic and responsive web applications.
 - 🌱 Currently learning advanced concepts in machine learning and artificial intelligence.
 - 💬 Ask me about web development, JavaScript, Python, and cloud technologies.
-- 📫 How to reach me: [Email](mailto:hung6129@example.com) | [LinkedIn](https://www.linkedin.com/in/hung6129)
+- 📫 How to reach me: [quyhung6129@gmail.com](mailto:quyhung6129@gmail.com) | [LinkedIn](https://www.linkedin.com/in/hung6129)
 - ⚡ Fun fact: I love solving puzzles and playing chess in my free time.
 
 ## 🛠️ Technologies & Tools

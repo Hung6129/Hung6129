@@ -1,19 +1,25 @@
-### Hei Hei 👋👋👋
-<p align="justify">
- <br>
-<!-- <img src="https://github.com/lambiengcode/lambiengcode/blob/main/gif/banner_gif.gif?raw=true" width="26.5%" height=auto align="right" alt="Computador">
-Also, I'm a freelancer. If you have a need for a mobile application or website contact me at
- <br><br> -->
- :mailbox: Email: quyhung6129@gmail.com
- 
-<!-- #### :green_heart: Techstack & Tools 
-<!-- [![My Skills](https://skillicons.dev/icons?i=flutter,dart,java,androidstudio,swift,firebase,mongodb,postgresql,gitlab&perline=5&theme=dark)](https://skillicons.dev)
- 
-<!-- #### :star: Github Stats
+# Hi there, I'm Hung6129! 👋
 
-<!-- <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=Hung6129&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="Hung Nguyen's GitHub Streaks" />
-</div>
+Welcome to my GitHub profile! I'm passionate about software development, open-source contributions, and always eager to learn new technologies. Here's a bit about me:
 
-<!-- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hung6129&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=algolia&count_private=true&show_icons=true&border_radius=8&border_color=3d0066" height="180em"/>
+## 🚀 About Me
+- 💻 Full-stack Developer with a knack for creating dynamic and responsive web applications.
+- 🌱 Currently learning advanced concepts in machine learning and artificial intelligence.
+- 💬 Ask me about web development, JavaScript, Python, and cloud technologies.
+- 📫 How to reach me: [Email](mailto:hung6129@example.com) | [LinkedIn](https://www.linkedin.com/in/hung6129)
+- ⚡ Fun fact: I love solving puzzles and playing chess in my free time.
 
+## 🛠️ Technologies & Tools
+- **Mobile:** React, Flutter/Dart, Android/Java, iOS/Swift
+- **Backend:** Node.js, Express.js,
+- **Databases:** MongoDB, MySQL, PostgreSQL
+- **DevOps:** Docker, Kubernetes, Jenkins, GitHub Actions
+- **Cloud:** Azure, Google Cloud Platform
 
+## 📈 GitHub Stats
+![Hung6129's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hung6129&show_icons=true&theme=radical)
+
+## 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/hung6129)
+
+Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just chat about tech.

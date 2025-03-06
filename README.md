@@ -19,10 +19,6 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 - **Cloud:** Azure, Google Cloud Platform
 
 
-## 📈 GitHub Stats
-![Hung6129's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hung6129&show_icons=true&theme=radical)
-
-
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/hung6129)
 
